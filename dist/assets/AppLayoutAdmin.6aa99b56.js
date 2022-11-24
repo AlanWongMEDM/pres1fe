@@ -1,0 +1,1 @@
+import{_ as t,o,c as a,r as s,F as n,a as r}from"./index.550a79a5.js";const c={},l=r("h1",null,"Admin Layout",-1);function d(e,p,_,u,f,i){return o(),a(n,null,[l,s(e.$slots,"default")],64)}const $=t(c,[["render",d]]);export{$ as default};
